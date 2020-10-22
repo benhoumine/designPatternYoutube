@@ -1,4 +1,4 @@
-package com.abdelkhalek.benhoumine;
+package com.abdelkhalek.benhoumine.factory;
 
 public class Main {
 
